@@ -44,7 +44,7 @@ Hi 👋 My name is Fred Munene
 <img src="https://github-readme-stats.vercel.app/api?username=FredMunene&show_icons=true&count_private=truetheme=dark#gh-dark-mode-only" alt="FredMunene's GitHub stats"/>
 </a>
 
-<a href="http://www.github.com/FredMunene"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FredMunene&stroke=ffffff&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/FredMunene"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FredMunene&stroke=0000ff&ring=0891b2&fire=0891b2&currStreakNum=0891b2&currStreakLabel=0000ff&sideNums=0000ff&sideLabels=0000ff&dates=0000ff&hide_border=true" /></a>
 
 <!--
 **FredMunene/FredMunene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
