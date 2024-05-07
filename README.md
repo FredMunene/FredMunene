@@ -16,19 +16,19 @@
 ### Socials
 <p align="left>
 <a href="https://github.com/FredMunene" target="_blank" rel="noreferrer">
-<img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/github.svg" width="36 height="36" alt="Github"/>>
+<img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/github.svg" width="36 height="36" alt="Github"/>
 </a>
 <a href="https://twitter.com/Gitonga2050" target="_blank" rel="noreferrer">
-<img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/twitter.svg" width="36 height="36" alt="Twitter"/>>
+<img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/twitter.svg" width="36 height="36" alt="Twitter"/>
 </a>
 <a href="https://ke.linkedin.com/in/fredgitonga" target="_blank" rel="noreferrer">
-<img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/linkedin.svg" width="36 height="36" alt="LinkedIn"/>>
+<img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/linkedin.svg" width="36 height="36" alt="LinkedIn"/>
 </a>
 <a href="https://medium.com/@mfredgitonga" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/medium-colored.svg" width="36 height="36" alt="Medium"/>>
+<img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/medium.svg" width="36 height="36" alt="Medium"/>
 </a>
 <a href="https://medium.com/@mfredgitonga" target="_blank" rel="noreferrer">
-<img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/instagram.svg" width="36 height="36" alt="Instagram"/>>
+<img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/instagram.svg" width="36 height="36" alt="Instagram"/>
 </a>
 
 </p>
