@@ -1,4 +1,4 @@
-*** Hi 👋 My name is Fred Munene ***
+Hi 👋 My name is Fred Munene 
 ================================
 
 + 🌍 I'm based in Kisumu, Kenya
