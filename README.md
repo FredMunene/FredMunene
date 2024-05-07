@@ -20,7 +20,7 @@ Hi 👋 My name is Fred Munene
 <p align="left>
 <a href="https://github.com/FredMunene" target="_blank" rel="noreferrer">
 <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/github.svg" width="36 height="36" alt="Github"/>
-<img src>
+<img src= "https://github.com/FredMunene/Sartuday/blob/master/and-blank-effect-transparent-11546868080xgtiz6hxid.png" width="36 height="36">
 </a>
 <a href="https://twitter.com/Gitonga2050" target="_blank" rel="noreferrer">
 <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/twitter.svg" width="36 height="36" alt="Twitter"/>
