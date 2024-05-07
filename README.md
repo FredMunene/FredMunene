@@ -39,7 +39,7 @@ Hi 👋 My name is Fred Munene
 ### Badges
 <b>My Github Stats</b>
 <a href="https://github.com/FredMunene)>
-<imag src="https://github-readme-stats.vercel.app/api?username=FredMunene&show_icons=true&theme=dark#gh-dark-mode-only" alt="FredMunene's GitHub stats"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=FredMunene&show_icons=true&theme=dark#gh-dark-mode-only" alt="FredMunene's GitHub stats"/>
 </a>
 
 
