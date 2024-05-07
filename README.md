@@ -8,7 +8,7 @@ Hi 👋 My name is Fred Munene
 
 ### Skills
 <p align="left>
-<a href="https://go.dev/" target="_blank" rel="noreferrer">
+<a href="https://go.dev/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
 <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/go.svg" width="36 height="36" alt="Go"/>
 </a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
@@ -18,20 +18,19 @@ Hi 👋 My name is Fred Munene
 
 ### Socials
 <p align="left>
-<a href="https://github.com/FredMunene" target="_blank" rel="noreferrer">
+<a href="https://github.com/FredMunene" target="_blank" rel="noreferrer" style="margin-right: 10px;">
 <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/github.svg" width="36 height="36" alt="Github"/>
-<img src= "https://github.com/FredMunene/Sartuday/blob/master/and-blank-effect-transparent-11546868080xgtiz6hxid.png" width="36 height="36">
 </a>
-<a href="https://twitter.com/Gitonga2050" target="_blank" rel="noreferrer">
+<a href="https://twitter.com/Gitonga2050" target="_blank" rel="noreferrer"style="margin-right: 10px;">
 <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/twitter.svg" width="36 height="36" alt="Twitter"/>
 </a>
-<a href="https://ke.linkedin.com/in/fredgitonga" target="_blank" rel="noreferrer">
+<a href="https://ke.linkedin.com/in/fredgitonga" target="_blank" rel="noreferrer" style="margin-right: 10px;">
 <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/linkedin.svg" width="36 height="36" alt="LinkedIn"/>
 </a>
-<a href="https://medium.com/@mfredgitonga" target="_blank" rel="noreferrer">
+<a href="https://medium.com/@mfredgitonga" target="_blank" rel="noreferrer"style="margin-right: 10px;" >
 <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/medium.svg" width="36 height="36" alt="Medium"/>
 </a>
-<a href="https://medium.com/@mfredgitonga" target="_blank" rel="noreferrer">
+<a href="https://medium.com/@mfredgitonga" target="_blank" rel="noreferrer" style="margin-right: 10px;">
 <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/instagram.svg" width="36 height="36" alt="Instagram"/>
 </a>
 
