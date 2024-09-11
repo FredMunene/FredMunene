@@ -11,7 +11,8 @@ Hi 👋 My name is Fred Munene
 <a href="https://go.dev/" target="_blank" rel="noreferrer">
 <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/go.svg" width="36 height="36" alt="Go"/>
 </a>
-
+</p>
+<p>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
 <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/python.svg" width="36 height="36" alt="Go"/>
 </a>
