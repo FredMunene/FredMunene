@@ -7,7 +7,7 @@ Hi 👋 My name is Fred Munene
 
 
 ### Skills
-<p align="left>
+<p>
 <a href="https://go.dev/" target="_blank" rel="noreferrer">
 <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/go.svg" width="36 height="36" alt="Go"/>
 </a>
