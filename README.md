@@ -1,16 +1,17 @@
 Hi 👋 My name is Fred Munene 
 ================================
 
-+ 🌍 I'm based in Kisumu, Kenya
++ 🌍 I'm based in Kisumu, Kenya.
 + 📩 Reach me on [mfredgitonga@gmail.com](mailto:mfredgitonga@gmail.com)
 + 🌱 I’m currently learning Go, Rust, Javascript.
 
 
 ### Skills
 <p align="left>
-<a href="https://go.dev/" target="_blank" rel="noreferrer" style="margin-right: 10px">
+<a href="https://go.dev/" target="_blank" rel="noreferrer" >
 <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/go.svg" width="36 height="36" alt="Go"/>
 </a>
+
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
 <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/python.svg" width="36 height="36" alt="Go"/>
 </a>
