@@ -17,7 +17,7 @@ Hi 👋 My name is Fred Munene
 <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/python.svg" width="36 height="36" alt="Go"/>
 </a>
 </p>
-
+<!--
 ### Socials
 <p align="left">
   <a href="https://github.com/FredMunene" target="_blank" rel="noreferrer" style="margin-right: 10px;">
@@ -37,7 +37,7 @@ Hi 👋 My name is Fred Munene
   </a>
 </p>
 
-
+<!--
 ### Badges
 <b>My Github Stats</b>
 
@@ -45,7 +45,7 @@ Hi 👋 My name is Fred Munene
 <a href="https://github.com/FredMunene">
 <img src="https://github-readme-stats.vercel.app/api?username=FredMunene&show_icons=true&count_private=truetheme=dark#gh-dark-mode-only" alt="FredMunene's GitHub stats"/>
 </a>
-
+<!--
 <a href="http://www.github.com/FredMunene"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FredMunene&stroke=0000ff&ring=0891b2&fire=0891b2&currStreakNum=0891b2&currStreakLabel=0000ff&sideNums=0000ff&sideLabels=0000ff&dates=0000ff&hide_border=true" /></a>
 
 <!--
