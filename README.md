@@ -10,7 +10,7 @@
 ### 🎯 Current Focus
 - 🧠 Learning: Go, Rust, JavaScript
 - 🪙 Interests: Blockchain technology, developer tooling, open source
-- ✍🏾 Writing: [Dev.to](https://dev.to/fredmunene) • [Medium](https://medium.com/@mfredgitonga)
+- ✍🏾 Writing: [Dev.to](https://dev.to/fredgitonga) • [Medium](https://medium.com/@mfredgitonga)
 
 ### 🚀 About Me
 I'm a self-driven developer passionate about building tools, systems, and communities that make a meaningful impact. Currently exploring writing smart contract with Rust and Solidity, backend development with Go and JS, and emerging tech like blockchain. I believe in sharing what I learn—check out my blogs!
@@ -28,7 +28,7 @@ I'm a self-driven developer passionate about building tools, systems, and commun
   <a href="https://twitter.com/Gitonga2050" target="_blank"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/twitter-dark.svg" width="48" height="48" alt="Twitter" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(346deg) brightness(118%) contrast(119%); margin: 0 20px;" /></a>
   <a href="https://ke.linkedin.com/in/fredgitonga" target="_blank"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/linkedin.svg" width="48" height="48" alt="LinkedIn" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(346deg) brightness(118%) contrast(119%); margin: 0 20px;" /></a>
   <a href="https://medium.com/@mfredgitonga" target="_blank"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/medium-dark.svg" width="48" height="48" alt="Medium" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(346deg) brightness(118%) contrast(119%); margin: 0 20px;" /></a>
-  <a href="https://dev.to/fredmunene" target="_blank"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/devdotto-dark.svg" width="48" height="48" alt="Dev.to" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(346deg) brightness(118%) contrast(119%); margin: 0 20px;" /></a>
+  <a href="https://dev.to/fredgitonga" target="_blank"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/devdotto-dark.svg" width="48" height="48" alt="Dev.to" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(346deg) brightness(118%) contrast(119%); margin: 0 20px;" /></a>
 </p>
 
 ### 📈 GitHub Stats
