@@ -38,7 +38,7 @@ I'm a self-driven developer passionate about building tools, systems, and commun
   </a>
 </p>
 
-### 💭 Favorite Quote
+### 💭 Quote
 <p style="font-size: 3em; text-align: center;">
-> "The best way to learn is by building and sharing."
+"The best way to learn is by building and sharing."
 </p>
