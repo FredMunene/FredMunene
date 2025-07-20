@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Fred Munene
 
-## 🚀 Software Developer | Blockchain Enthusiast | Lifelong Learner
+## 🚀 Software Developer | Blockchain Developer | Lifelong Learner
 
 ### 🌍 Location & Contact
 - 📍 Based in: Kisumu, Kenya
