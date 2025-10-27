@@ -8,7 +8,7 @@
 - 💼 LinkedIn: [fredgitonga](https://ke.linkedin.com/in/fredgitonga)
 
 ### 🎯 Current Focus
-- 🧠 Learning: Go, Rust, JavaScript
+- 🧠 Languages: Go, Rust, JavaScript
 - 🪙 Interests: Blockchain technology, developer tooling, open source
 - ✍🏾 Writing: [Dev.to](https://dev.to/fredgitonga) • [Medium](https://medium.com/@mfredgitonga)
 
