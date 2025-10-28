@@ -2,6 +2,8 @@
 
 ## 🚀 Software Developer | Blockchain Developer | Lifelong Learner
 
+Community Partnership Lead [Web3way Africa](https://x.com/Web3wayafrica)
+
 ### 🌍 Location & Contact
 - 📍 Based in: Kisumu, Kenya
 - 📫 Email: mfredgitonga@gmail.com
@@ -13,7 +15,9 @@
 - ✍🏾 Writing: [Dev.to](https://dev.to/fredgitonga) • [Medium](https://medium.com/@mfredgitonga)
 
 ### 🚀 About Me
-I'm a self-driven developer passionate about building tools, systems, and communities that make a meaningful impact. Currently exploring writing smart contract with Rust and Solidity, backend development with Go and JS, and emerging tech like blockchain. I believe in sharing what I learn—check out my blogs!
++ I'm a self-driven developer passionate about building tools, systems, and communities that make a meaningful impact.
++ Writing smart contract with Rust and Solidity, backend development with Go and JS, and emerging tech like blockchain. 
++ I believe in sharing what I learn ; check out my [blogs](https://dev.to/fredgitonga)!
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
@@ -21,6 +25,7 @@ I'm a self-driven developer passionate about building tools, systems, and commun
   <a href="https://www.python.org/" target="_blank"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/python.svg" width="48" height="48" alt="Python" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(346deg) brightness(118%) contrast(119%); margin: 0 20px;" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/javascript.svg" width="48" height="48" alt="JavaScript" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(346deg) brightness(118%) contrast(119%); margin: 0 20px;" /></a>
   <a href="https://www.rust-lang.org/" target="_blank"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/rust.svg" width="48" height="48" alt="Rust" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(346deg) brightness(118%) contrast(119%); margin: 0 20px;" /></a>
+  <a href="https://www.soliditylang.org/" target="_blank"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/solidity-colored.svg" width="48" height="48" alt="Solidity" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(346deg) brightness(118%) contrast(119%); margin: 0 20px;" /></a>
 </p>
 
 ### 🌐 Connect With Me
