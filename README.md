@@ -5,7 +5,6 @@
 Community Partnership Lead [Web3way Africa](https://x.com/Web3wayafrica)
 
 ### 🌍 Location & Contact
-- 📍 Based in: Kisumu, Kenya
 - 📫 Email: mfredgitonga@gmail.com
 - 💼 LinkedIn: [fredgitonga](https://ke.linkedin.com/in/fredgitonga)
 
