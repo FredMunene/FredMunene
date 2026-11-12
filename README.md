@@ -44,11 +44,11 @@ I build full-stack web applications and backend services, with a focus on paymen
 - ✍🏽 [Technical writing on DEV](https://dev.to/fredgitonga)
 - 💻 Browse my [public repositories](https://github.com/FredMunene?tab=repositories)
 
-## 📊 GitHub Stats
+## 🌟 Repositories & Stars
 
 <div align="center">
 
-![Fred's GitHub stats](https://github-readme-stats.vercel.app/api?username=FredMunene&show_icons=true&theme=tokyonight&hide_border=true)
+Explore my [public repositories and their current star counts](https://github.com/FredMunene?tab=repositories) on GitHub.
 
 </div>
 
