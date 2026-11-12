@@ -6,7 +6,7 @@
 
 **Building reliable web applications, APIs, and payment systems.**
 
-📍 Nairobi, Kenya · Open to relocating to Kigali
+📍 Nairobi, Kenya · Open to relocating
 
 [🌐 Portfolio](https://gitongacodes.co.ke/) · [💼 LinkedIn](https://linkedin.com/in/fredgitonga) · [📫 Email](mailto:mfredgitonga@gmail.com)
 
